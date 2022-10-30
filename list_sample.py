@@ -12,4 +12,4 @@ List3 = List1.copy()
 print("List3 = ", List3)
 
 indexvalue = List2[2:6]
-rint("The index values are: ", indexvalue)
+print("The index values are: ", indexvalue)
